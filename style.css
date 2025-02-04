@@ -1,0 +1,41 @@
+*{
+    font-family: sans-serif;
+}
+body{
+    background-color: #eee;
+}
+header{
+    background-color: dodgerblue;
+    padding: 10px;
+    text-align: center;
+}
+header a{
+    text-decoration: none;
+    color: #fff;
+}
+hr{
+    margin: 10px 0;
+}
+
+p{
+    line-height: 1;
+}
+#image{
+    text-align: center;
+}
+img{
+    border-radius: 10px;
+    box-shadow: 10px 10px 10px #333;
+}
+.post{
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #111;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
